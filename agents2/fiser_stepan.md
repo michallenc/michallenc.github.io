@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Jan Reiner
+title: Štěpán Fišer
 number: xxxx
 agency: CIA
-permalink: /agents2/reinar_jan
+permalink: /agents2/fiser_stepan
 ---
 
 <center><h2>{{ page.title }}</h2></center>
