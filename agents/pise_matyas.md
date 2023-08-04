@@ -3,7 +3,7 @@ layout: page
 title: Matyáš Píše
 number: 2344
 agency: XYZ
-permalink: /agents/pisa_matyas
+permalink: /agents/pise_matyas
 ---
 
 <center><h2>{{ page.title }}</h2></center>

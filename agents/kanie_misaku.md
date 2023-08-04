@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misaku Kanie
+title: Misaki Kanie
 number: 1992
 agency: XYZ
 permalink: /agents/kanie_misaku

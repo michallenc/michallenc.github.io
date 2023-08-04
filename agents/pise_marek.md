@@ -3,7 +3,7 @@ layout: page
 title: Marek Píše
 number: 2888
 agency: XYZ
-permalink: /agents/pisa_marek
+permalink: /agents/pise_marek
 ---
 
 <center><h2>{{ page.title }}</h2></center>

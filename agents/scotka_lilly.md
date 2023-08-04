@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Lilly Ščotka
+title: Lily Ščotka
 number: 2876
 agency: XYZ
-permalink: /agents/scotka_lilly
+permalink: /agents/scotka_lily
 ---
 
 <center><h2>{{ page.title }}</h2></center>

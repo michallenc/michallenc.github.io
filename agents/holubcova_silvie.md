@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Silvie Holubcová
+title: Olivie Holubcová
 number: 2009
 agency: XYZ
-permalink: /agents/holubcova_silvie
+permalink: /agents/holubcova_olivie
 ---
 
 <center><h2>{{ page.title }}</h2></center>
