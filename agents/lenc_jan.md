@@ -13,9 +13,9 @@ Agentura: {{page.agency}}
 ID agenta: {{page.number}}
 <br>
 <br>
-Sinistralita: ?
+Sinistralita: Ano
 <br>
-Výška: ?
+Výška: 170
 <br>
 Barva očí: ?
 <br>

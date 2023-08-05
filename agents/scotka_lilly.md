@@ -2,20 +2,20 @@
 layout: page
 title: Lily Ščotka
 number: 2876
-agency: XYZ
+agency: BND
 permalink: /agents/scotka_lily
 ---
 
 <center><h2>{{ page.title }}</h2></center>
-![Alt Text](/assets/img/cni-logo.png){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Alt Text](/assets/img/bnd-logo.svg){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Agentura: {{page.agency}}
 <br>
 ID agenta: {{page.number}}
 <br>
 <br>
-Sinistralita: ?
+Sinistralita: Ne
 <br>
-Výška: ?
+Výška: 156
 <br>
 Barva očí: ?
 <br>

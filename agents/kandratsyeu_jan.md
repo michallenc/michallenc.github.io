@@ -2,20 +2,20 @@
 layout: page
 title: Jan Kandratsyeu
 number: 2304
-agency: XYZ
+agency: MI6
 permalink: /agents/kandratsyeu_jan
 ---
 
 <center><h2>{{ page.title }}</h2></center>
-![Alt Text](/assets/img/cni-logo.png){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Alt Text](/assets/img/mi6-logo.webp){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Agentura: {{page.agency}}
 <br>
 ID agenta: {{page.number}}
 <br>
 <br>
-Sinistralita: ?
+Sinistralita: Ano
 <br>
-Výška: ?
+Výška: 142
 <br>
 Barva očí: ?
 <br>

@@ -2,20 +2,20 @@
 layout: page
 title: Vítezslav Wondřich
 number: 1321
-agency: XYZ
+agency: DGSE
 permalink: /agents/wondrich_vita
 ---
 
 <center><h2>{{ page.title }}</h2></center>
-![Alt Text](/assets/img/cni-logo.png){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Alt Text](/assets/img/dgse-logo.png){: width="150" }{:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Agentura: {{page.agency}}
 <br>
 ID agenta: {{page.number}}
 <br>
 <br>
-Sinistralita: ?
+Sinistralita: Ne
 <br>
-Výška: ?
+Výška: 154
 <br>
 Barva očí: ?
 <br>
